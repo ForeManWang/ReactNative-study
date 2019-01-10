@@ -2,7 +2,10 @@
 
 在这之前，要先搭建好ReactNative项目环境
 
-##看文档**[ReactNative项目环境搭建](https://qqqww.com/ReactNative项目环境搭建/)**
+##**[ReactNative项目环境搭建](https://qqqww.com/ReactNative项目环境搭建/)**
 
-##看文档**[ReactNative组件](https://qqqww.com/ReactNative组件/)**
+主要介绍`ReactNative项目环境如何搭建的完成步骤`
 
+##**[ReactNative组件](https://qqqww.com/ReactNative组件/)**
+
+主要介绍了`ReactNative`的部分组件
